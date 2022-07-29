@@ -1,10 +1,10 @@
 package com.Basic.Program;
 
-public class Welcome_ToBasicCoreProgram {
+public class LargestNumber {
 
 	public static void main(String[] args) {
 
-		int n1 = 4;
+		int n1 = 1;
 		int n2 = 3;
 		int n3 = 5;
 
